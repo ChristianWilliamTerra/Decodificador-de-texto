@@ -146,7 +146,7 @@ header {
     border-radius: 32px;
     border: none;
 
-    background-image: url(/imagens/mensagem.png);
+    background-image: url(imagens/mensagem.png);
     background-repeat: no-repeat;
     background-position-y: 100px;
     background-position-x: 50px;
